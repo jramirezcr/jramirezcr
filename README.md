@@ -2,7 +2,23 @@
 
 My name is Jorge Ramírez-Cruz and I'm a computational scientist and mechanical engineer.
 
-I’m currently working on Immersed Boundary and Level-Set Methods to model complex flow in industrial processes. 
+I’m currently working on Immersed Boundary and Level-Set Methods to model complex flow in industrial processes. Here you will see:
+
+-Computational Fluid Dynamics
+
+-Computational Geometry
+
+-Numerical Methods
+
+## 🔧 Technologies & Tools
+![](https:///badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editors-Emacs-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
 <!--
