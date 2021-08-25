@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Jorge Ramírez-Cruz and I'm a computational scientist and mechanical engineer.
+
+I’m currently working on Immersed Boundary and Level-Set Methods to model complex flow in industrial processes. 
+
+
 <!--
 **jramirezcr/jramirezcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
