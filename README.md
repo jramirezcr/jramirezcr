@@ -11,7 +11,7 @@ I’m currently working on Immersed Boundary and Level-Set Methods to model comp
 -Numerical Methods
 
 ## 🔧 Technologies & Tools
-![](https:///badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https:///badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=succes)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
