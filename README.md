@@ -15,7 +15,7 @@ I’m currently working on Immersed Boundary and Level-Set Methods to model comp
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-2bbc8a?style=flat-square)
+![](https://img.shields.io/badge/Editor-Vim-2bbc8a?style=flat)
 
 
 <!--
